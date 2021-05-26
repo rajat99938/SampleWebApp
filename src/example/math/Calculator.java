@@ -3,6 +3,7 @@ package math;
 public class Calculator {
   
  public double add(double a, double b) {
+     int c = a + b;
   return a + b;
  }
   
